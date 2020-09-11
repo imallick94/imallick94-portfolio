@@ -11,7 +11,7 @@ Quotes that inspire me:
 
 “The goal is to turn data into information, and information into insight.” – Carly Fiorina, former executive, president, and chair of Hewlett-Packard Co.
 
-"Data is the kind of ubiquitous resource that we can shape to provide new innovations and new insights." - David McCandless
+"Data is the kind of ubiquitous resource that we can shape to provide new innovations and new insights." - David McCandless, author of book Information is Beautiful.
 
 # Portfolio
 Coming soon!
