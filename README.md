@@ -17,12 +17,17 @@ Quotes that inspire me:
 
 ## Assignment 2 (09/16/20): OECD Government Debts
 
-### Original Visualization
+### Chart 0: Original Visualization
 
 <iframe src="https://data.oecd.org/chart/65K0" width="950" height="713" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65K0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</a></iframe>
 
-### Using Flourish to visualize the data: part 1
+### Chart 1: Using Flourish to visualize the data
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3758496" data-url="https://flo.uri.sh/visualisation/3758496/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Using Flourish to visualize the data alternatively: part 2
+### Chart 2: Using Flourish to visualize the same data in an alternate way
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3758613" data-url="https://flo.uri.sh/visualisation/3758613/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Comparing Charts 1 & 2
+Chart 1 and chart 2, when visualized as above tell different stories while using the same dataset. While Chart 1 shows the timeline of government debts for OECD countries over time, chart 2 tells the story of government debts for OECD countries where only a handful of countries form the majority of government debts in total. Chart 1 is better if we want to tell the story of the trajectories of the government debts by country, and though one can see the countries with the highest levels of debts, it is made clearer through the treemap chart 2 through the hierarchy of the area of occupied by each country which can be seen all at one or by year using the filter function of chart 2.
