@@ -15,6 +15,14 @@ Quotes that inspire me:
 
 # Portfolio
 
-## OECD Government Debts
+## Assignment 2: OECD Government Debts
+
+### Original Visualization
 
 <iframe src="https://data.oecd.org/chart/65K0" width="950" height="713" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65K0" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</a></iframe>
+
+### Using Flourish to visualize the data: part 1
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3758496" data-url="https://flo.uri.sh/visualisation/3758496/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Using Flourish to visualize the data alternatively: part 2
