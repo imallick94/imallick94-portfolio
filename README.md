@@ -65,9 +65,9 @@ However, the visualisation is still very confusing for anyone looking at it at g
 
 ### Wireframing solutions for redesign
 
-<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WhatsApp%20Image%202020-09-24%20at%201.58.05%20PM.jpeg?raw=true" width="400">
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WhatsApp%20Image%202020-09-24%20at%201.58.05%20PM.jpeg?raw=true" width="1000">
 
-<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WhatsApp%20Image%202020-09-24%20at%201.58.05%20PM%20(1).jpeg?raw=true" width="400">
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WhatsApp%20Image%202020-09-24%20at%201.58.05%20PM%20(1).jpeg?raw=true" width="1000">
 
 
 ### User testing (round 1) on wireframe sketches to select chart type:
