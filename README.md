@@ -64,7 +64,10 @@ However, the visualisation is still very confusing for anyone looking at it at g
 
 
 ### Wireframing solutions for redesign
-![alt](file:///Users/Ipsita/Downloads/WhatsApp%20Image%202020-09-24%20at%201.58.05%20PM%20(1).jpeg)
+
+![alt](https://lh3.googleusercontent.com/xmJ1T46RT7UcjdDyb-yYLYrbh7di-lmTK7q5njT8fquBxBkYTLcBcGpH-1lzDvVfq6bmqRmdwbwV41XSYGwh-l8YI5quUOJ-8IqS4hoUzkka0VhmRlvdXzahPL9UGW5Rg6fJ3s_SFDVgruiXOegzHL4TotzYpr_y_gG-fUWjXHPN-Lf1en4q5Y9rMKORjXAQAx-YLUMG4RFuSwNlHwakPvV_0JFUMWrGDN8MppqM5PlcQkwBxo0Xh7kmTYk5uvZnL1f1Tu92V02oduNlYGLdAwNRkuyDGLYdYSavYmMcAMd73Tm1fzHw0vkbuyeSdoC8mRMQSpEs1s_5OB_KBQN4FpmklJ654Y8r3X5lTdgyOAhl3zpAWS5pf2YhvAqiCjeNTfWqbQWurEGpvXpwRW5xrHIBXx_sCQgXal26efTWlBYd9GXXahuCjKvKiQlUFMnXZP5XVXDW5ToWtWbFrvHCavm3NOBK-UH_6MNJXqE_rA4a3SSl7Q9-XbcLoiF3ecbkdumUXSB5vBtBAh7rb8rvEe103E6cz4GGUZxTJlrfGfGNyxayugfGDFX6l4UlcXuifgFoQkgavKpfCG2q9mZFyM4gHAqPs7FCQ3DShmyybDkGPh8oQ0X7pOA1-pZi_FzoQl_SzzdQGC0nx7XH8z7d80EuGNKHkmT9N2xdLLd4Z8jE9ScZQDe5pxSMbu83Qg=w1122-h842-no?authuser=0)
+
+![alt](https://lh3.googleusercontent.com/CsW4mFloC-iVwe5jpJSpSt89Xx3y3-ZWtJ2U68zorOjdmCMYymkE4G0nJ1MW1Ju8Rx5ZonVj4OMl0XAZggyWGbMhH5-3aRdJt2N328DCnpKE3zuVAbvqscCNfJn_WfYxFl1YMKytOETgdOABPyE-BJ3jSXzJ8XYVU4WYNTyB5ktVt37HdFGbuA2AVTMWgr9G0BluO6MGjgD_aaJF1GFV5IpJpxLUhLUoTcg2EIX-hWi-WbjYp3nhqjVE2deSqccznAxIgf3lf-xB2vsp0llNkzgI9-xVIRKPyuXmgrLJyg7ZOye_alFN4d25KOCaGIqFLtroID9HArjbToLB3N-RVDrSRoxz0UQvG8vjsABUidkE6ypL2fW-OkR1F1YhazVYqy89SbvAHz2s4xRvgxTWBngHgppDfIBIJY61jsqPVe0qcix1YjiGTt4UCg64-kVbgMr1AuRlr9HN7NHLNBj36YxIoi2fxWaGo3W4cPDhYWsq73LchRwRS-ibD1d3I0kohF5hb7C3jKi1ZcenjdA5sIdD5r3IKkPLYMsZP41KIn165g22MT-Cl1flxL8cEvtzAbmPFdgKN_7c0HL2_iPPvSWI2xSrGMZwUbcgB9u79znv-ULpG34IxvcrmNPwJwW-2CckyawRz1T8JIczbOsQK2tFJR7yoCVM40WzrcDwg_tt0wTcRJ1Ys9LbQSYZ_Q=w293-h220-no?authuser=0)
 
 
 ### User testing (round 1) on wireframe sketches to select chart type:
@@ -88,7 +91,7 @@ Assistant Manager HR at ITC Ltd. India
 
 
 ### Redesign of Chart: Pre-final Version
-I decided to act on 
+I decided to act on Mahima's suggestion of exploring another chart type and made two options for  
 <div class="flourish-embed flourish-slope" data-src="visualisation/3830697" data-url="https://flo.uri.sh/visualisation/3830697/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
