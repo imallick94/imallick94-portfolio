@@ -37,28 +37,70 @@ Chart 1 and chart 2, when visualized as above tell different stories while using
 
 
 
-# In-Class Tableau Exercise (09/16/20): 
-
-https://public.tableau.com/views/RankingnewsmediabyconsumertrustintheUS/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-
-
 
 ## Assignment 3 & 4 (09/23/20): Gender Wage Gap
 Critique and suggested redesign of chart type to show a decline in gender wage gap for countries, in 2000 versus in 2015. 
 
+
 ### The Original Visualisation 
 <iframe src="https://ourworldindata.org/grapher/gender-gap-in-average-wages-2000-vs-2015" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-This chart is presented in support of the story that 
+This chart is presented in support of the story that:
+[In most countries the gender pay gap has decreased in the last couple of decades](https://ourworldindata.org/economic-inequality-by-gender#in-most-countries-the-gender-pay-gap-has-decreased-in-the-last-couple-of-decades "In most countries the gender pay gap has decreased in the last couple of decades").
 
-### Wireframing solution
 
-### User testing (round 1)
+### Critique of Original Visualization
+The scatter plot chart here does a good job of showing an overall picture of how gender inequality in wages is reducing by showing most countries below the 45° line, indicating that the wage gap in the countries has been closing from 2000 to 2015. But it took me almost 15 minutes to reach this conclusion when I did not read the article it is associated with. It helped that the chart was interactive, so I could read the exact percentage changes of gender wages gap in 2000 and 2015 by country to come to this conclusion.
 
-### Redesign of Chart: Version 1
+However, the visualisation is still very confusing for anyone looking at it at glance and does not tell the story of a decline in gender wage gap in most countries clearly for several reasons:
+
+1. The size of the dots in the scatter plot shows the proportional size of population of the countries, but in a chart that is trying to communicate decline in gender wage gap, the size of the dots can be misinterpreted as the country showing the most change in gender wage gap from 2000 to 2015.
+  
+2. The axes and the chart type is problematic. This chart is showing the ratio of gender wage gap of 2015 to 2000 (y-axis:x-axis). In my opinion reading such a chart is difficult and not relevant to the overarching narrative that needs to communicate a decline in gender wage gap for majority of the countries.There is too much information - there are 4 quadrants for measuring % change in gender wage gap and a line of correlation between the years. The axes measure % in one year vs another, which according to me is not an effective way to show the trend over time in a clear and effective manner.
+
+3. The headline of the visualization is factual rather than a statement of what the chart means to represent, i.e., a reduction in gender wage gap over time.
+
+4. Further, it not not evident at a glance whether the overall trend amongst the countries here has been +ve or -ve. The audience needs time to read and understand the chart which is currently not intuitive.
+
+
+### Wireframing solutions
+
+
+
+### User testing (round 1) on wireframe sketches
+Participant Name: Mahima Sharma (HR manager at ITC, India)
+
+- Can you tell me what you think this is?
+"
+
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+*"This data is for anybody who wants to see how the pay gap between men and women has changed in the last 2 decades."*
+
+- Is there anything you would change or do differently?
+
+
+### Redesign of Chart: Pre-final Version
 <div class="flourish-embed flourish-slope" data-src="visualisation/3830697" data-url="https://flo.uri.sh/visualisation/3830697/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### User testing (round 2)
 
-### Redesign of Chart: Version 2
+### User testing (round 2)
+Participant Name: Rahul Sridhar (CMU graduate student)
+
+- Can you tell me what you think this is?
+"It's a visualisation of gender 
+
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+
+- Is there anything you would change or do differently?
+
+
+### Redesign of Chart: Version
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3830089" data-url="https://flo.uri.sh/visualisation/3830089/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
