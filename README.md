@@ -91,24 +91,33 @@ Assistant Manager HR at ITC Ltd. India
 
 
 ### Redesign of Chart: Pre-final Version
-I decided to act on Mahima's suggestion of exploring another chart type and made two options for  
+I decided to act on Mahima's suggestion of exploring another chart type and made two pre-final chart options for the data on Flourish.
+
+#### Option 1
 <div class="flourish-embed flourish-slope" data-src="visualisation/3830697" data-url="https://flo.uri.sh/visualisation/3830697/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+#### Option 2
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3831094" data-url="https://flo.uri.sh/visualisation/3831094/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### User testing (round 2)
+
+### A/B user testing (round 2) on pre-final visualizations created on Flourish
 Participant Name: Rahul Sridhar (CMU graduate student)
 
-- Can you tell me what you think this is?
-"It's a visualisation of gender 
+**- Can you tell me which of the two charts made from the same data makes more sense in terms of representing the headline story?**
+*"I like visualisation of gender wage gap change from 2000 to 2015 in option 2 way better. It's much clearer and I like the downward visual effect of the gap % reducing.Option 1 looks too messy to me somehow. Even though I can see each country highlighted separately and the slope between the years, at a glance I can't make out a trend, to be honest."*
 
-- Can you describe to me what this is telling you?
+**- Can you describe to me what Option 2 is telling you?**
+*"I can see that except for countries like Panama and Costa Rica, all other countries show a drop in the gap of pay scale between men and women. It's pretty clear to me that the gender wage gap is reducing for this sample set of countries."*
 
-- Is there anything you find surprising or confusing?
+**- Is there anything you find surprising or confusing? Is there anything you would change or do differently?**
+*"The only thing I found slightly disturbing in option 2 is that I can't see which country has shown maximum change and which one has shown least change at a glance. Could you order it in that manner to make it look more organised?"
 
-- Who do you think is the intended audience for this?
+**- Who do you think is the intended audience for this?**
+*"I think this chart can be used publicly for making the case that gender wage gap has been reducing but still is prevalent for many countries across the world."*
 
-- Is there anything you would change or do differently?
 
+### Redesign of Chart: Final Version
+I incorporated the feedback I recieved from Rahul and made the final version of the visualization redesign as below. 
 
-### Redesign of Chart: Version
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3830089" data-url="https://flo.uri.sh/visualisation/3830089/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
