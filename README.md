@@ -40,3 +40,25 @@ Chart 1 and chart 2, when visualized as above tell different stories while using
 # In-Class Tableau Exercise (09/16/20): 
 
 https://public.tableau.com/views/RankingnewsmediabyconsumertrustintheUS/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
+
+
+## Assignment 3 & 4 (09/23/20): Gender Wage Gap
+Critique and suggested redesign of chart type to show a decline in gender wage gap for countries, in 2000 versus in 2015. 
+
+### The Original Visualisation 
+<iframe src="https://ourworldindata.org/grapher/gender-gap-in-average-wages-2000-vs-2015" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+This chart is presented in support of the story that 
+
+### Wireframing solution
+
+### User testing (round 1)
+
+### Redesign of Chart: Version 1
+<div class="flourish-embed flourish-slope" data-src="visualisation/3830697" data-url="https://flo.uri.sh/visualisation/3830697/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### User testing (round 2)
+
+### Redesign of Chart: Version 2
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3830089" data-url="https://flo.uri.sh/visualisation/3830089/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
