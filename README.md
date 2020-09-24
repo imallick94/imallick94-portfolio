@@ -63,27 +63,32 @@ However, the visualisation is still very confusing for anyone looking at it at g
 4. Further, it not not evident at a glance whether the overall trend amongst the countries here has been +ve or -ve. The audience needs time to read and understand the chart which is currently not intuitive.
 
 
-### Wireframing solutions
+### Wireframing solutions for redesign
+![alt](file:///Users/Ipsita/Downloads/WhatsApp%20Image%202020-09-24%20at%201.58.05%20PM%20(1).jpeg)
 
 
+### User testing (round 1) on wireframe sketches to select chart type:
+Participant Name: Mahima Sharma 
+Assistant Manager HR at ITC Ltd. India
 
-### User testing (round 1) on wireframe sketches
-Participant Name: Mahima Sharma (HR manager at ITC, India)
+**- By looking at the different sketches, can you tell me which chart option best represents the Goal I've written here?**
+*"I really like option 2. Its an interesting visualisation. Options 1 and 4 are simple bar charts which are also clear, but I prefer option 2."*
 
-- Can you tell me what you think this is?
-"
+**- Can you describe to me what option 2 is telling you?**
+*"Its showing me the change in wage gap by country and I can see clearly that most have been successful at closing the gap from 2000 to 2015."*
 
-- Can you describe to me what this is telling you?
+**- Is there anything you find surprising or confusing?**
+*"Actually, the colour coding is confusing. I mean I understand that you're trying to show that a drop in the wage gap % is a positive sign and therefore its green but you have also written "-ve" for the green lines. In my mind, something negative is usally a bad thing, more red than green. The context here needs to be understood to understand the colours but I think its still a little confusing at a glance."*
 
-- Is there anything you find surprising or confusing?
+**- Who do you think is the intended audience for this?**
+*"This data is for anybody who wants to see how the pay gap between men and women has changed in the last few years. Its not recent data but it shows a trend over the 15 years."*
 
-- Who do you think is the intended audience for this?
-*"This data is for anybody who wants to see how the pay gap between men and women has changed in the last 2 decades."*
-
-- Is there anything you would change or do differently?
+**- Is there anything you would change or do differently?**
+*"If I was doing this visualization, I would prefer making it horizontal instead of vertical to show either an upward or downward slope by country in the gender wage gap between 2000 and 2015. Then it will be nice to see that for most countries the trend has been downward."*
 
 
 ### Redesign of Chart: Pre-final Version
+I decided to act on 
 <div class="flourish-embed flourish-slope" data-src="visualisation/3830697" data-url="https://flo.uri.sh/visualisation/3830697/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
