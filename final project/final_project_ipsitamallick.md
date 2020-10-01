@@ -50,13 +50,14 @@ Lack of access to menstrual hygiene products negatively impacts the education of
 
 I found a lot of journal and news articles, government reports and research papers on the topic for access to menstrual hygiene, but not many public datasets that I can use directly (nothing on Kaggle and Datahub) except for on the website of government of India National Family Health Survey which did not have datasets, but some fact sheets available. I found couple of data visualization stories on Tableau Public and I can use those sources, wherever provided by authors, to obtain datasets. Overall, I know data will be available on the topic to accessibility to menstrual hygiene products, but probably not so easily for the impact and effectiveness of current action taken or problems still persisting in terms of menstrual hygiene due to reasons and factors outside of accessibility and awareness such as social taboos, culture od gender discrimination, traditions and cultural beliefs, availability of public toilets for girls and the condition of sanitation facilities in rural parts of the country, etc.
 
-Here are a few examples of datasets I plan to use:
+Here are a few examples of datasets and sources I plan to use:
 
-- https://data.gov.in/resources/current-use-family-planning-methods-dlhs-iv
-- https://data.gov.in/resources/utilization-government-health-services-dlhs-iv
-- http://swaf.pop.upenn.edu/datasets
-- https://public.tableau.com/profile/priyanka2900#!/vizhome/StrissueWorkbook-New/Sheet13
-- https://public.tableau.com/profile/farah.thakur#!/vizhome/menstrual_hygiene_desktop/Sheet2
+- [link1](https://data.gov.in/resources/current-use-family-planning-methods-dlhs-iv)
+- [link2](https://data.gov.in/resources/utilization-government-health-services-dlhs-iv)
+- [link3](http://swaf.pop.upenn.edu/datasets)
+- [link4](https://public.tableau.com/profile/priyanka2900#!/vizhome/StrissueWorkbook-New/Sheet13)
+- [link5](https://public.tableau.com/profile/farah.thakur#!/vizhome/menstrual_hygiene_desktop/Sheet2)
+- [link6](http://rchiips.org/nfhs/pdf/NFHS4/India.pdf)
 
 
 # Method & Medium
