@@ -7,6 +7,11 @@ Lack of access to menstrual hygiene products negatively impacts the education of
 
 <img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/Screen%20Shot%202020-10-01%20at%2012.19.12%20AM.png?raw=true" width="1000">
 
+## The Problem
+
+(Detailed problem description)
+
+
 ## Meet Geeta!
 
 (context & character intro + situation of problem with respect to her)
@@ -34,4 +39,12 @@ Lack of access to menstrual hygiene products negatively impacts the education of
 ## How can YOU create an impact?
 
 (insert call to action here)
+
+
+
+# The Data
+
+
+# Method & Medium
+
 
