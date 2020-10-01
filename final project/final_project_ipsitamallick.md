@@ -45,6 +45,12 @@ Lack of access to menstrual hygiene products negatively impacts the education of
 # The Data
 
 
+
 # Method & Medium
 
+I plan to use Shorthand as the medium for presentation of the story, since it offers a lot of flexibility to add images, embedded visualizations and UI animations. I also want to consider Squarespace, since all my other portfolio projects are on my website, but it does not offer as much flexibility as shorthand to construct the structure and customise the template in terms of design.
+
+For the data visualizations, I would like to primarily use Tableau (and maybe Flourish if necessary to achieve a specific effect/design I can't manage to get from Tableau). I would like to create some colour palettes on Adobe and coolors.co to ensure there is legibility through sufficient contrast ratios and easy to view for people with colour blindness. I would also use some photosop or illustrator to create my fictional story protagonist, Geeta as well as consistent background themes for shorthand.
+
+Since my topic has relevance for an international audience, I'm considering ways to make the visualisations and text descriptions available in different languages besides English, such as Hindi (priority), French, Spanish, Chinese etc, but I'm not sure how I could implement this even if I were to use the HTML translate attribute by Google.
 
