@@ -125,4 +125,4 @@ I incorporated the feedback I recieved from Rahul and made the final version of 
 
 # Final Project
 
-[pagelink](/final_project_ipsitamallick.md)
+[pagelink](/final project/final_project_ipsitamallick.md)
