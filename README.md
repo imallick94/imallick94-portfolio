@@ -126,4 +126,4 @@ I incorporated the feedback I recieved from Rahul and made the final version of 
 
 # Final Project
 
-[viewfinalproject](/final project/final_project_ipsitamallick.md)
+[Click here to view](/final project/final_project_ipsitamallick.md)
