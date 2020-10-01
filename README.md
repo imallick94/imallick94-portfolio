@@ -123,6 +123,7 @@ I incorporated the feedback I recieved from Rahul and made the final version of 
 
 
 
+
 # Final Project
 
-[pagelink](/final project/final_project_ipsitamallick.md)
+[viewfinalproject](/final project/final_project_ipsitamallick.md)
