@@ -121,3 +121,8 @@ I incorporated the feedback I recieved from Rahul and made the final version of 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/3830089" data-url="https://flo.uri.sh/visualisation/3830089/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+
+# Final Project
+
+[pagelink](/final project/final_project_ipsitamallick.md)
