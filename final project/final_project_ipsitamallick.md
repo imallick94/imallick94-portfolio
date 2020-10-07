@@ -1,6 +1,8 @@
 # Final Project Process Documentation:
 
+
 # Part 1
+
 
 ## The Problem: Access to menstrual hygiene for girls in India is a problem, but are current solutions enough?
 
@@ -76,29 +78,37 @@ Since my topic has relevance for an international audience, I'm considering ways
 
 # Part 2
 
+
 ## Wireframes
 
 
 
 ## User Research
 
+
 ### Summarizing story in a sentence: 
 "Lack of access to menstrual hygiene impacts the education of millions of girls in India."
+
 
 ### Target Audience: 
 Users of Social Media who do not have much awareness or knowledge about the state of menstrual hygiene management in India or who don’t know how they can help.
 
+
 ### User perspective: 
 "As a user of social media, I want to be motivated to be a part of the movement to improve the accessibility of menstrual hygiene in India so that I can make a positive impact at an individual level."
+
 
 ### Call to action: 
 "I can do this by donating to and/or sharing information about an active crowdfunding initiative to help young girls in the remote town of Kargil, Ladakh access safe menstrual hygiene."
 
+
 ### Call to Action Goal: 
 Get visitors to donate to a crowdfunding initiative for spreading safe menstrual hygiene education awareness to young girls in Kargil, India.
 
+
 ### Approach to identify individuals to interview:
 My assumption is that a lot of people know about the problem and either do not know how they can help or what they can do about it at an individual level. Therefore, by providing the link to a crowdfunding initiative which is currently active as a call to action, I want to find out out of the 3 users I interview, how compelled do they feel to make a small donation to the initiative or share the story of such an initiative with others through their instagram stories to encourage more donations through wider outreach. Thus, from my social media account on instagram, I have identified 3 random acquaintances who are based in India to go through the story wireframes and assess their reaction to the story, their feedback and their motivation to be a part of the change.
+
 
 ### Interview Script
 
@@ -111,8 +121,6 @@ My assumption is that a lot of people know about the problem and either do not k
 - Was there anything about the story you did not understand or find confusing?
 - Is there anything you would change or do differently?
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
-
-### Interview Findings:
 
 
 ### Findings from interviews:
