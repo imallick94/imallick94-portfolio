@@ -1,11 +1,13 @@
-# Final Project Topic:
+# Final Project Documentation:
 
-## Access to menstrual hygiene for girls in India is a problem, but are current solutions enough?
+# Part 1
+
+## The Problem: Access to menstrual hygiene for girls in India is a problem, but are current solutions enough?
 
 Lack of access to menstrual hygiene products negatively impacts the education of millions of girls in India and a lot is being done to tackle this problem including national awareness campaigns, health and hygiene drives by NGO's as well as rural distribution of low-cost menstrual hygiene products. But are these solutions are sustainable and really effective? Or do they fail to tackle the real challenges that still exist below the surface? Let's look at Geeta's story to dig deeper.
 
 
-# Story Outline:
+## Story Outline:
 
 <img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/Screen%20Shot%202020-10-01%20at%2012.19.03%20AM.png?raw=true" width="1000">
 
@@ -45,8 +47,7 @@ Lack of access to menstrual hygiene products negatively impacts the education of
 (insert call to action here)
 
 
-
-# The Data
+## The Data
 
 I found a lot of journal and news articles, government reports and research papers on the topic for access to menstrual hygiene, but not many public datasets that I can use directly (nothing on Kaggle and Datahub) except for on the website of government of India National Family Health Survey which did not have datasets, but some fact sheets available. I found couple of data visualization stories on Tableau Public and I can use those sources, wherever provided by authors, to obtain datasets. Overall, I know data will be available on the topic to accessibility to menstrual hygiene products, but probably not so easily for the impact and effectiveness of current action taken or problems still persisting in terms of menstrual hygiene due to reasons and factors outside of accessibility and awareness such as social taboos, culture od gender discrimination, traditions and cultural beliefs, availability of public toilets for girls and the condition of sanitation facilities in rural parts of the country, etc.
 
@@ -64,7 +65,7 @@ Here are a few examples of datasets and sources I plan to use:
 
 
 
-# Method & Medium
+## Method & Medium
 
 I plan to use Shorthand as the medium for presentation of the story, since it offers a lot of flexibility to add images, embedded visualizations and UI animations. I also want to consider Squarespace, since all my other portfolio projects are on my website, but it does not offer as much flexibility as shorthand to construct the structure and customise the template in terms of design.
 
