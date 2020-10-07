@@ -99,7 +99,7 @@ Users of Social Media who do not have much awareness or knowledge about the stat
 
 
 ### Call to action: 
-"I can do this by donating to and/or sharing information about an active crowdfunding initiative to help young girls in the remote town of Kargil, Ladakh access safe menstrual hygiene."
+"I can do this by donating to and/or sharing information about [an active crowdfunding initiative to help young girls in the remote town of Kargil, Ladakh access safe menstrual hygiene](https://milaap.org/fundraisers/help-kargili-girls-be-safe)."
 
 
 ### Call to Action Goal: 
