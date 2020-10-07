@@ -1,6 +1,6 @@
 # Final Project Topic:
 
-## Access to menstrual hygiene for girls in India is a problem, but why are current solutions enough?
+## Access to menstrual hygiene for girls in India is a problem, but are current solutions enough?
 
 Lack of access to menstrual hygiene products negatively impacts the education of millions of girls in India and a lot is being done to tackle this problem including national awareness campaigns, health and hygiene drives by NGO's as well as rural distribution of low-cost menstrual hygiene products. But are these solutions are sustainable and really effective? Or do they fail to tackle the real challenges that still exist below the surface? Let's look at Geeta's story to dig deeper.
 
@@ -54,10 +54,14 @@ Here are a few examples of datasets and sources I plan to use:
 
 - [link1](https://data.gov.in/resources/current-use-family-planning-methods-dlhs-iv)
 - [link2](https://data.gov.in/resources/utilization-government-health-services-dlhs-iv)
-- [link3](http://swaf.pop.upenn.edu/datasets)
+- [link3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7013590/)
 - [link4](https://public.tableau.com/profile/priyanka2900#!/vizhome/StrissueWorkbook-New/Sheet13)
 - [link5](https://public.tableau.com/profile/farah.thakur#!/vizhome/menstrual_hygiene_desktop/Sheet2)
 - [link6](http://rchiips.org/nfhs/pdf/NFHS4/India.pdf)
+- [link7](http://mospi.nic.in/download-reports?main_cat=NzI2&cat=All&sub_category=All)
+- [link8](http://mospi.nic.in/publication/women-and-men-india-2019)
+- [Effect of menstruation on girls and their schooling, and facilitators of menstrual hygiene management in schools: surveys in government schools in three states in India, 2015](https://pubmed.ncbi.nlm.nih.gov/30546869/)
+
 
 
 # Method & Medium
