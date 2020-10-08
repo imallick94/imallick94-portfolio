@@ -151,6 +151,7 @@ My assumption is that a lot of people know about the problem and either do not k
 ### Findings from interviews:
 
 **Participant 1**
+
 - What are your initial thoughts on this?
 
 *"This story gives me information about a problem that already exists but I'm glad it takes me on a journey to ultimately be part of a solution which is beyond just spreading awareness."*
@@ -177,6 +178,7 @@ My assumption is that a lot of people know about the problem and either do not k
 
 
 **Participant 2**
+
 - What are your initial thoughts on this?
 
 
@@ -199,6 +201,7 @@ My assumption is that a lot of people know about the problem and either do not k
 
 
 **Participant 3**
+
 - What are your initial thoughts on this?
 
 
