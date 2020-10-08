@@ -79,8 +79,33 @@ Since my topic has relevance for an international audience, I'm considering ways
 # Part 2
 
 
-## Wireframes
+## First cut Wireframes
 
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_1.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_2.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_3.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_4.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_5.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_6.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_7.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_8.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_9.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_10.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_11.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_12.png?raw=true" width="1000">
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_13.png?raw=true" width="1000">
 
 
 ## User Research
@@ -127,22 +152,28 @@ My assumption is that a lot of people know about the problem and either do not k
 
 **Participant 1**
 - What are your initial thoughts on this?
+
 *"This story gives me information about a problem that already exists but I'm glad it takes me on a journey to ultimately be part of a solution which is beyond just spreading awareness."*
 
 - How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
+
 *"The visualisation of geeta - and personalizing the idea of her by telling me she likes playing football, wants to be a doc, was feeling scared when she went to school that day- all of this helped me visualise and empathise with her far more effectively than I could have without the visuals."*
 
 - What did you think of the fictional character Geeta?
+
 *"A 13 year old girl with hopes and dreams. Could empathise with her troubles."*
 
 - Was there anything about the story you did not understand or find confusing?
 *"Took me a second to get what you meant by MHM. Also, didn't quite understand what's the work being done to help girls in thsi space."*
 
 - Is there anything you would change or do differently?
+
 *"Yes. Lose the acronyms. Tell me more about what is already happening in this space and what else we can do to help. Also, the link between why there's a gap, even when education and access interventions already taking place isn't clear."*
 
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
+
 *"Definitely. Infact I was moved by the storyline and wanted to know how to help further. The story overall helps me understand the problem, tells me the size of the problem and also humanizes the impact. This makes me want to contribute and help out!"*
+
 
 
 **Participant 2**
@@ -162,6 +193,8 @@ My assumption is that a lot of people know about the problem and either do not k
 
 
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
+
+
 
 
 
