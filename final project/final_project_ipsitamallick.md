@@ -156,20 +156,27 @@ My assumption is that a lot of people know about the problem and either do not k
 
 *"This story gives me information about a problem that already exists but I'm glad it takes me on a journey to ultimately be part of a solution which is beyond just spreading awareness."*
 
+
 - How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
 
 *"The visualisation of geeta - and personalizing the idea of her by telling me she likes playing football, wants to be a doc, was feeling scared when she went to school that day- all of this helped me visualise and empathise with her far more effectively than I could have without the visuals."*
+
 
 - What did you think of the fictional character Geeta?
 
 *"A 13 year old girl with hopes and dreams. Could empathise with her troubles."*
 
+
 - Was there anything about the story you did not understand or find confusing?
+
+
 *"Took me a second to get what you meant by MHM. Also, didn't quite understand what's the work being done to help girls in thsi space."*
+
 
 - Is there anything you would change or do differently?
 
 *"Yes. Lose the acronyms. Tell me more about what is already happening in this space and what else we can do to help. Also, the link between why there's a gap, even when education and access interventions already taking place isn't clear."*
+
 
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
 
@@ -179,24 +186,28 @@ My assumption is that a lot of people know about the problem and either do not k
 
 **Participant 2**
 
-- What are your initial thoughts on this?
-
-
 - How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
+
+*"The visuals helped me understand the problem, can be varied in terms on visualization, maybe? Also waste generated is because of inaccessibility to menstural hygiene or other wise?"*
 
 
 - What did you think of the fictional character Geeta?
 
+*"Quite informative character, covers most of the problems that girls face regarding mensturation."*
+
 
 - Was there anything about the story you did not understand or find confusing?
+
+*"Nothing confusing but would like to know more about infrastructure initiatives to understand the impact of my contribution."*
 
 
 - Is there anything you would change or do differently?
 
+*"There’s a break in the story when Geeta has been introduced. The information provided before Geeta’s story and after Geeta’s story somehow overlaps and could have been clubbed together. Infographics following Geeta’s story could be personalized to her problem, maybe like some of the misconceptions or like education outcome would be more relevant following Geeta’s story?"*
 
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
 
-
+*"I felt compelled and would have shared the story on Insta (could also be because of intrinsic motivation and interest in the issue) How can I contribute in spreading awareness about healthy and affordable alternatives to current practices (dirt or cloth) would have spiked my interest more."*
 
 
 
