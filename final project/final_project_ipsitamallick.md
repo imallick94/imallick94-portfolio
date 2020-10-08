@@ -150,7 +150,7 @@ My assumption is that a lot of people know about the problem and either do not k
 
 ### Findings from interviews:
 
-**Participant 1**
+#### Participant 1
 
 - What are your initial thoughts on this?
 
@@ -170,12 +170,12 @@ My assumption is that a lot of people know about the problem and either do not k
 - Was there anything about the story you did not understand or find confusing?
 
 
-*"Took me a second to get what you meant by MHM. Also, didn't quite understand what's the work being done to help girls in thsi space."*
+***"Took me a second to get what you meant by MHM. Also, didn't quite understand what's the work being done to help girls in this space."***
 
 
 - Is there anything you would change or do differently?
 
-*"Yes. Lose the acronyms. Tell me more about what is already happening in this space and what else we can do to help. Also, the link between why there's a gap, even when education and access interventions already taking place isn't clear."*
+***"Yes. Lose the acronyms. Tell me more about what is already happening in this space and what else we can do to help. Also, the link between why there's a gap, even when education and access interventions already taking place isn't clear."***
 
 
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
@@ -184,11 +184,11 @@ My assumption is that a lot of people know about the problem and either do not k
 
 
 
-**Participant 2**
+#### Participant 2
 
 - How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
 
-*"The visuals helped me understand the problem, can be varied in terms on visualization, maybe? Also waste generated is because of inaccessibility to menstural hygiene or other wise?"*
+***"The visuals helped me understand the problem, can be varied in terms on visualization, maybe? Also waste generated is because of inaccessibility to menstural hygiene or other wise?"***
 
 
 - What did you think of the fictional character Geeta?
@@ -198,20 +198,20 @@ My assumption is that a lot of people know about the problem and either do not k
 
 - Was there anything about the story you did not understand or find confusing?
 
-*"Nothing confusing but would like to know more about infrastructure initiatives to understand the impact of my contribution."*
+***"Nothing confusing but would like to know more about infrastructure initiatives to understand the impact of my contribution."***
 
 
 - Is there anything you would change or do differently?
 
-*"There’s a break in the story when Geeta has been introduced. The information provided before Geeta’s story and after Geeta’s story somehow overlaps and could have been clubbed together. Infographics following Geeta’s story could be personalized to her problem, maybe like some of the misconceptions or like education outcome would be more relevant following Geeta’s story?"*
+***"There’s a break in the story when Geeta has been introduced. The information provided before Geeta’s story and after Geeta’s story somehow overlaps and could have been clubbed together. Infographics following Geeta’s story could be personalized to her problem, maybe like some of the misconceptions or like education outcome would be more relevant following Geeta’s story?"***
 
 - Did you feel compelled enough to make a contribution to this initiative? If no, why?
 
-*"I felt compelled and would have shared the story on Insta (could also be because of intrinsic motivation and interest in the issue) How can I contribute in spreading awareness about healthy and affordable alternatives to current practices (dirt or cloth) would have spiked my interest more."*
+***"I felt compelled and would have shared the story on Insta (could also be because of intrinsic motivation and interest in the issue) How can I contribute in spreading awareness about healthy and affordable alternatives to current practices (dirt or cloth) would have spiked my interest more."***
 
 
 
-**Participant 3**
+#### Participant 3
 
 - What are your initial thoughts on this?
 
@@ -233,5 +233,5 @@ My assumption is that a lot of people know about the problem and either do not k
 
 
 
-### Changes I plan on implementing to address issues identified:
+## Changes I plan on implementing to address issues identified:
 
