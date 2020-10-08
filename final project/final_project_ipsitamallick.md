@@ -229,7 +229,7 @@ What did you think of the fictional character Geeta?
 
 Was there anything about the story you did not understand or find confusing?
 
-- ***"The character introdutction/use case wa not clear, I felt the story was focussing on one thing but the flow was broken by Geets - there is a break in the though process."***
+- ***"The character introdutction/use case was not clear, I felt the story was focussing on one thing but the flow was broken by Geets - there is a break in the though process."***
 
 Is there anything you would change or do differently?
 
@@ -242,5 +242,12 @@ Did you feel compelled enough to make a contribution to this initiative? If no, 
 
 
 
+
 ## Changes I plan on implementing to address issues identified:
 
+There are some patterns in the interview responses that I see (highlighted in bold). These are the changes I feel would be most necessary at this point:
+
+- Provide more details on the call to action, since the story aims to compel viewers to share and make a contribution through crowdfunding. Showing the gap between how much has been collected and how much remains will also add to the urgency of the need.
+- Disconnect between goverment initiatives and why they are ineffective due to character introduction, rethink the structure of sections.
+- Improve the details of problems faced by Geeta at an individual level so that it can be tied to the data visualizations rather than have the two sections separate.
+- How is the waste and disposal issue relevant to improving access to menstrual hygiene - needs to be tied in together.
