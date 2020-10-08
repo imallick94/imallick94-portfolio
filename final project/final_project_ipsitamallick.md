@@ -126,10 +126,64 @@ My assumption is that a lot of people know about the problem and either do not k
 ### Findings from interviews:
 
 **Participant 1**
+- What are your initial thoughts on this?
+*"This story gives me information about a problem that already exists but I'm glad it takes me on a journey to ultimately be part of a solution which is beyond just spreading awareness."*
+
+- How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
+*"The visualisation of geeta - and personalizing the idea of her by telling me she likes playing football, wants to be a doc, was feeling scared when she went to school that day- all of this helped me visualise and empathise with her far more effectively than I could have without the visuals."*
+
+- What did you think of the fictional character Geeta?
+*"A 13 year old girl with hopes and dreams. Could empathise with her troubles."*
+
+- Was there anything about the story you did not understand or find confusing?
+*"Took me a second to get what you meant by MHM. Also, didn't quite understand what's the work being done to help girls in thsi space."*
+
+- Is there anything you would change or do differently?
+*"Yes. Lose the acronyms. Tell me more about what is already happening in this space and what else we can do to help. Also, the link between why there's a gap, even when education and access interventions already taking place isn't clear."*
+
+- Did you feel compelled enough to make a contribution to this initiative? If no, why?
+*"Definitely. Infact I was moved by the storyline and wanted to know how to help further. The story overall helps me understand the problem, tells me the size of the problem and also humanizes the impact. This makes me want to contribute and help out!"*
+
 
 **Participant 2**
+- What are your initial thoughts on this?
+
+
+- How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
+
+
+- What did you think of the fictional character Geeta?
+
+
+- Was there anything about the story you did not understand or find confusing?
+
+
+- Is there anything you would change or do differently?
+
+
+- Did you feel compelled enough to make a contribution to this initiative? If no, why?
+
+
 
 **Participant 3**
+- What are your initial thoughts on this?
+
+
+- How effective were the visual representations in changing your perspective on what the problem is and how you as an individual can help?
+
+
+- What did you think of the fictional character Geeta?
+
+
+- Was there anything about the story you did not understand or find confusing?
+
+
+- Is there anything you would change or do differently?
+
+
+- Did you feel compelled enough to make a contribution to this initiative? If no, why?
+
+
 
 
 ### Changes I plan on implementing to address issues identified:
