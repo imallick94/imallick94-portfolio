@@ -255,7 +255,15 @@ There are some patterns in the interview responses that I see (highlighted in bo
 
 # Part 3
 
+
+## Intended Audience
+For this story, my intended audience was social media users who would want to know about the issue and share the story on social media for a wider outreach that compels people to make a contribution to the call-to-action initiative. I knew I would share this story with users who are mostly in the US (which is a diverse and international community) or in India and I realized that english would be a good language choice to communicate the story to this audience. I wanted the story to be told in very simple language, not too text-heavy, but enough to provide information and details wherever necessary such that even if someone is scrolling down quickly, and not reading details, they still get a jist overall of what the story is talking about through the simple, consistent visuals and bold/highlighted text. 
+
+One strategy for creating engagement was to start the story with some minimal information and hard-hitting stats which encourages people to scroll more and find out more. I wanted the fictional character to be very personable so that users could empathize easily as well. So writing her dreams and the sad aspect of her having to drop out of school was important.
+
+
 ## Revising Wireframes based on feedback
+
 
 ## Creating visual styles & data visualizations
 
