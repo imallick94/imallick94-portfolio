@@ -251,3 +251,14 @@ There are some patterns in the interview responses that I see (highlighted in bo
 - Disconnect between goverment initiatives and why they are ineffective due to character introduction, rethink the structure of sections.
 - Improve the details of problems faced by Geeta at an individual level so that it can be tied to the data visualizations rather than have the two sections separate.
 - How is the waste and disposal issue relevant to improving access to menstrual hygiene - needs to be tied in together.
+
+
+# Part 3
+
+## Revising Wireframes based on feedback
+
+## Creating visual styles & data visualizations
+
+
+
+
