@@ -257,6 +257,7 @@ There are some patterns in the interview responses that I see (highlighted in bo
 
 
 ## Intended Audience
+
 For this story, my intended audience was social media users who would want to know about the issue and share the story on social media for a wider outreach that compels people to make a contribution to the call-to-action initiative. I knew I would share this story with users who are mostly in the US (which is a diverse and international community) or in India and I realized that english would be a good language choice to communicate the story to this audience. I wanted the story to be told in very simple language, not too text-heavy, but enough to provide information and details wherever necessary such that even if someone is scrolling down quickly, and not reading details, they still get a jist overall of what the story is talking about through the simple, consistent visuals and bold/highlighted text. 
 
 One strategy for creating engagement was to start the story with some minimal information and hard-hitting stats which encourages people to scroll more and find out more. I wanted the fictional character to be very personable so that users could empathize easily as well. So writing her dreams and the sad aspect of her having to drop out of school was important.
@@ -264,9 +265,54 @@ One strategy for creating engagement was to start the story with some minimal in
 
 ## Revising Wireframes based on feedback
 
+Based on user feedback, there were 3 main things I needed to rethink:
+- story structure: problem statement -(transition)- complexity of problem -(transition)- impacts -(transition)- call-to-action.
+- tie in character's story with the problem
+- details on call-to-action
+
+I decided to start with some facts, to give an overview of the the seriousness of the problem, then provide further details on the complexity of the story through the perspective of the fictional character. In this section instead of providing the full story of the character at one go, I decided to break it down and provide numbers or stats alongside the narrative or journey of the character.
+(Note: I changed the character's name to "Fatima" from "geeta" since the call-to-action was an initiative based in Kargil and most of the population there is Muslim, therefore I thought it would be more appropriate.)
+
+I wireframed the information flow as below:
+
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_A.png?raw=true" width="1000">
+<img src="https://github.com/imallick94/imallick94-portfolio/blob/master/images/WF_B.png?raw=true" width="1000">
+
+Once I knew how the data and information sequence, I started to create the data visualisations and work on shorthand simultaneously by creating the sections as I had wireframed.
+
 
 ## Creating visual styles & data visualizations
 
+The first decision was the colour scheme. Red seemed like an appropriate colour, not only because the topic was access to menstrual hygiene, but also because it's a good colour to attract attention and highlight important parts in a visualization or in text. To complement and balance red, a neutral palette was black, shades of grey and white.
 
+In terms of the typography, I wanted to create a clear hierarchy. Most important or hard-hitting information was in the heading text on shorthand and details in paragraph font. Since this topic is a serious one, I chose Lato, which is legible and not too overwhelming, minimal and report-like.
+
+For the data visualisations, I decided to primarily use Flourish, as I could quickly chose a template and edit it with my data. 
+
+Most of my data could be presented in simple bar charts or donuts since they were single percentages. 
+
+<div class="flourish-embed flourish-election" data-src="visualisation/4025010" data-url="https://flo.uri.sh/visualisation/4025010/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4027614" data-url="https://flo.uri.sh/visualisation/4027614/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4028484" data-url="https://flo.uri.sh/visualisation/4028484/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+Wherever the stats could be written as a simple sentence, I did not feel the need to add a graph and instead highlight or bold the stat or number. This also reduces an effect of information overload.
+
+
+For the urban-rural gap chart, I wanted to visually highlight a "gap" or show distance between urban and rural stats in the access to menstrual hygiene. I could have gone with a grouped bar chart here, but a visualization I did before to show gender gap was effective so I decided to stick to a similar format for the current dataset.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/4023914" data-url="https://flo.uri.sh/visualisation/4023914/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+For the correlation between education and access to menstrual hygiene, I wanted a very simple and clear representation so that viewers can understand it in a glance. Personally, I find scatter plots difficult to understand correlation, but a double-sided bar chart seemed simple enough for people to read quickly. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/4024619" data-url="https://flo.uri.sh/visualisation/4024619/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+I kept images to a minimum, only applying them where necessary to reduce cognitive load and move the focus to the data visualizations. Fatima could have been an animated character, but I wanted her to seem as real as possible to create an impact on the viewer, as if she could be a young girl the viewer would know. So I chose an image of a rural girl from India. On shorthand, I decided to add an effect of going from colour to desaturation (or vice versa) in these images to  create a feeling of emotional transition from positive to negative or vice versa for the viewer as they scroll.
+
+Providing the images of the call-to-action initiative added details of the action being taken on the ground as well as make it feel more credible or real for the viewers.
 
 
