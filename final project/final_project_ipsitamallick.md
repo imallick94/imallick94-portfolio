@@ -295,10 +295,9 @@ Most of my data could be presented in simple bar charts or donuts since they wer
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4027614" data-url="https://flo.uri.sh/visualisation/4027614/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/4028484" data-url="https://flo.uri.sh/visualisation/4028484/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/4029480" data-url="https://flo.uri.sh/visualisation/4029480/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-Wherever the stats could be written as a simple sentence, I did not feel the need to add a graph and instead highlight or bold the stat or number. This also reduces an effect of information overload.
+Note: Wherever the stats could be written as a simple sentence, I did not feel the need to add a graph and instead highlight or bold the stat or number. This also reduces an effect of information overload.
 
 
 For the urban-rural gap chart, I wanted to visually highlight a "gap" or show distance between urban and rural stats in the access to menstrual hygiene. I could have gone with a grouped bar chart here, but a visualization I did before to show gender gap was effective so I decided to stick to a similar format for the current dataset.
