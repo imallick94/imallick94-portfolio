@@ -76,6 +76,9 @@ For the data visualizations, I would like to primarily use Tableau (and maybe Fl
 Since my topic has relevance for an international audience, I'm considering ways to make the visualisations and text descriptions available in different languages besides English, such as Hindi (priority), French, Spanish, Chinese etc, but I'm not sure how I could implement this even if I were to use the HTML translate attribute by Google.
 
 
+
+
+
 # Part 2
 
 
@@ -253,8 +256,11 @@ There are some patterns in the interview responses that I see (highlighted in bo
 - How is the waste and disposal issue relevant to improving access to menstrual hygiene - needs to be tied in together.
 
 
+
+
 # Part 3
 
+Here is a link to the [Final Data Story](https://carnegiemellon.shorthandstories.com/access-to-safe-menstrual-hygiene-is-a-problem-in-india-/index.html#article)
 
 ## Intended Audience
 
@@ -263,7 +269,10 @@ For this story, my intended audience was social media users who would want to kn
 One strategy for creating engagement was to start the story with some minimal information and hard-hitting stats which encourages people to scroll more and find out more. I wanted the fictional character to be very personable so that users could empathize easily as well. So writing her dreams and the sad aspect of her having to drop out of school was important.
 
 
-## Revising Wireframes based on feedback
+## Process of creating the final data story page
+
+
+### Revising Wireframes based on feedback
 
 Based on user feedback, there were 3 main things I needed to rethink:
 - story structure: problem statement -(transition)- complexity of problem -(transition)- impacts -(transition)- call-to-action.
@@ -281,7 +290,7 @@ I wireframed the information flow as below:
 Once I knew how the data and information sequence, I started to create the data visualisations and work on shorthand simultaneously by creating the sections as I had wireframed.
 
 
-## Creating visual styles & data visualizations
+### Creating visual styles & data visualizations
 
 The first decision was the colour scheme. Red seemed like an appropriate colour, not only because the topic was access to menstrual hygiene, but also because it's a good colour to attract attention and highlight important parts in a visualization or in text. To complement and balance red, a neutral palette was black, shades of grey and white.
 
