@@ -128,6 +128,9 @@ I incorporated the feedback I recieved from Rahul and made the final version of 
 
 [Click here to view](/final project/final_project_ipsitamallick.md)
 
-<iframe src="https://public.tableau.com/views/RankingnewsmediabyconsumertrustintheUS2/Sheet1?:language=en&:display_count=y&:origin=viz_share_link:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
+<iframe src="
+https://public.tableau.com/views/RankingnewsmediabyconsumertrustintheUS2/Sheet1?:language=en&:display_count=y&:origin=viz_share_link"
+ width="645" height="955"></iframe>
+
 
 https://public.tableau.com/views/RankingnewsmediabyconsumertrustintheUS2/Sheet1?:language=en&:display_count=y&:origin=viz_share_link
