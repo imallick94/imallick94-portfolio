@@ -129,5 +129,5 @@ I incorporated the feedback I recieved from Rahul and made the final version of 
 [Click here to view](/final project/final_project_ipsitamallick.md)
 
 
-<iframe src="https://public.tableau.com/views/RankingnewsmediabyconsumertrustintheUS/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/Book1_16056288889290/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
